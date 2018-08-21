@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="MyTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+		<item name="colorPrimaryDark">#0E78F2</item>
+		<item name="colorPrimary">#0E78F2</item>
+		<item name="colorAccent">#000000</item>
+		<item name="android:textColorPrimary">#000000</item>
+		<item name="android:textColorSecondary">#bfbfbf</item>
+		<item name="android:navigationBarColor">#0E78F2</item>
+		<item name="actionMenuTextColor">#ffffff</item>
+		<item name="android:windowDrawsSystemBarBackgrounds">true</item>
+		<item name="android:windowContentOverlay">@null</item>
+		<!-- hide Action Bar  -->
+		<item name="windowActionBar">false</item>
+		<item name="windowNoTitle">true</item>
+	</style>
+	
+		<style name="MyThemePush" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+		<item name="colorPrimaryDark">#0E78F2</item>
+		<item name="colorPrimary">#0E78F2</item>
+		<item name="colorAccent">#000000</item>
+		<item name="android:textColorPrimary">#000000</item>
+		<item name="android:textColorSecondary">#bfbfbf</item>
+		<item name="android:navigationBarColor">#0E78F2</item>
+		<item name="actionMenuTextColor">#ffffff</item>
+		<item name="android:windowDrawsSystemBarBackgrounds">true</item>
+		<item name="android:windowContentOverlay">@null</item>
+		<!-- hide Action Bar  -->
+		<item name="windowActionBar">false</item>
+		<item name="windowNoTitle">false</item>
+	</style>
+	<style name="MyTheme2" parent="@style/Theme.AppCompat.Light">
+		<item name="colorPrimaryDark">#0E78F2</item>
+		<item name="colorPrimary">#0E78F2</item>
+		<item name="colorAccent">#000000</item>
+		<!-- <item name="android:textColorPrimary">#FFFFFF</item> -->
+		<item name="android:textColorSecondary">#66FFFFFF</item>
+		<item name="android:navigationBarColor">#0E78F2</item>
+		<item name="actionMenuTextColor">#ffffff</item>
+		<item name="android:actionMenuTextColor">#ffffff</item>
+		<item name="android:windowDrawsSystemBarBackgrounds">true</item>
+		<item name="android:windowContentOverlay">@null</item>
+		<!-- hide Action Bar  -->
+		<item name="windowActionBar">true</item>
+		<item name="windowNoTitle">true</item>
+	</style>
+	<style name="Theme.actionBarTrue" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+		<item name="colorPrimaryDark">#0E78F2</item>
+		<item name="colorPrimary">#0E78F2</item>
+		<item name="colorAccent">#000000</item>
+		<item name="android:textColorPrimary">#ffffff</item>
+		<item name="android:textColorSecondary">#66FFFFFF</item>
+		<item name="android:navigationBarColor">#0E78F2</item>
+		<item name="actionMenuTextColor">#ffffff</item>
+		<item name="android:actionMenuTextColor">#ffffff</item>
+		<item name="android:windowDrawsSystemBarBackgrounds">true</item>
+		<item name="android:windowContentOverlay">@null</item>
+	</style>
+	<style name="Theme.actionBarTrueTwo" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+		<item name="colorPrimaryDark">#0E78F2</item>
+		<item name="colorPrimary">#0E78F2</item>
+		<item name="colorAccent">#000000</item>
+		<item name="android:textColorPrimary">#000000</item>
+		<item name="android:textColorSecondary">#66FFFFFF</item>
+		<item name="android:navigationBarColor">#0E78F2</item>
+		<item name="actionMenuTextColor">#ffffff</item>
+		<item name="android:actionMenuTextColor">#ffffff</item>
+		<item name="android:windowDrawsSystemBarBackgrounds">true</item>
+		<item name="android:windowContentOverlay">@null</item>
+	</style>
+	<style name="Theme.extend" parent="@style/Theme.AppCompat.NoTitleBar">
+		<item name="colorPrimaryDark">#0E78F2</item>
+	</style>
+	<style name="newTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+		<item name="windowActionBar">false</item>
+		<item name="windowNoTitle">false</item>
+		<item name="colorPrimaryDark">#b3b3b3</item>
+		<item name="colorPrimary">#b3b3b3</item>
+	</style>
+	<style name="Theme.actionBarSocial" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+		<item name="colorPrimaryDark">#0E78F2</item>
+		<item name="colorPrimary">#0E78F2</item>
+		<item name="colorAccent">#000000</item>
+		<item name="android:textColorPrimary">#000000</item>
+		<item name="android:textColorSecondary">#66FFFFFF</item>
+		<item name="android:navigationBarColor">#0E78F2</item>
+		<item name="actionMenuTextColor">#ffffff</item>
+		<item name="android:actionMenuTextColor">#ffffff</item>
+		<item name="android:windowDrawsSystemBarBackgrounds">true</item>
+		<item name="android:windowContentOverlay">@null</item>
+	</style>
+
+</resources>
